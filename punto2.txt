@@ -1,0 +1,5 @@
+Punto 2 
+
+Para poder clonar este repositorio al repositorio remoto, lo hice a traves github utilizando 
+la opcion que me permite clonar repositorios, dejandome subir los cambios del repositorio local 
+al repositorio remoto. 
